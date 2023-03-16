@@ -4,6 +4,7 @@ This site is a very preliminary mockup of a site that I will use as my personal 
 
 
 
+![site screenshot](assets/oystertech.png)
 
 
 
